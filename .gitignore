@@ -1,0 +1,4 @@
+configs/dev/
+configs/local/
+configs/proc/
+.idea
