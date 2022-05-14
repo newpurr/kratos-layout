@@ -1,4 +1,5 @@
 configs/dev/
 configs/local/
 configs/proc/
+bin/
 .idea
